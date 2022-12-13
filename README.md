@@ -1,13 +1,26 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+## :information_source: Shopping Cart
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+Projeto de conclusão do módulo de Fundamentos WEB.
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+## :rocket: Tecnologias Utilizadas
+
+* JavaScript
+* HTML
+* CSS
+
+---
+
+## Habilidades desenvolvidas
+
+* Fazer requisições a uma API (Application Programming Interface) do Mercado Livre;
+* Utilizar os conhecimentos sobre JavaScript, CSS e HTML;
+* Trabalhar com funções assíncronas;
+* Implementar testes unitários.
+
+---
+
+## :link: O que foi desenvolvido
+
+Nesse projeto foi desenvolvido um carrinho de compras dinâmico, consumindo dados diretamente de uma API. Através de requisições HTTP a essa API é possível interagir com ela da forma como quem a criou planejou. Utilizei a API do Mercado Livre para buscarmos produtos à venda.
+
+### Projeto realizado no módulo de fundamentos do Curso de Desenvolvimento WEB da TRYBE.
